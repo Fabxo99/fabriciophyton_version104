@@ -1,4 +1,4 @@
-print("ejemplos de blucles")
+print("ejemplos de blucles12")
 
 
 datos = ["12", "abc", "45", None, "99"]

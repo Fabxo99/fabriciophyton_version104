@@ -1,4 +1,4 @@
-print("ejemplos de condicionales")
+print("ejemplos de condicionales1")
 
 
 valores = [4, 6, 8, 10]
