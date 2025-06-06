@@ -1,1 +1,1 @@
-print("Nueva versión")
+print("Nueva versión fuera de clase")
